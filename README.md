@@ -5,9 +5,9 @@ Simple code to simulate querying from GPT and recreating ChatGPT in your termina
 ## Steps
 1. Get your own API key from openai.com and set it as an environment variable `OPENAI_API_KEY`
 2. From the current directory, run `./askai.sh [--model MODEL] [--q QUERY] [--c chat mode]` where
-  a. `--model` defaults to gpt-3.5-turbo
-  b. `--q` is a query for the model OR
-  c. `--c` flags interactive chat mode (to end, type exit or Ctrl+c)
+  - `--model` defaults to gpt-3.5-turbo
+  - `--q` is a query for the model OR
+  - `--c` flags interactive chat mode (to end, type exit or Ctrl+c)
 
 ## Setting up aliases
 Here are example aliases to use in your terminal for easier use:
