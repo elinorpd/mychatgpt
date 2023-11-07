@@ -12,7 +12,7 @@ Simple code to simulate querying from GPT and recreating ChatGPT in your termina
 ## Setting up aliases
 Here are example aliases to use in your terminal for easier use:
 ```
-alias gpt4="<your_path>/mychatgpt/askai.sh --model gpt-4-1106-preview --q"
+alias gpt="<your_path>/mychatgpt/askai.sh --model gpt-4-1106-preview --q"
 alias gpt3="<your_path>/mychatgpt/askai.sh --q"
 alias chatgpt="<your_path>/mychatgpt/askai.sh --model gpt-4-1106-preview --c"
 alias chatgpt3="<your_path>/mychatgpt/askai.sh --c"
